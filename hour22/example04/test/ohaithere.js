@@ -1,5 +1,5 @@
 
-var assert = require ('assert');
+var*assert = require ('assert');
 var ohaithere = require('../lib/ohaithere');
 
 describe('Ohai module', function(){
@@ -13,3 +13,4 @@ describe('Ohai module', function(){
     })
   })
 })
+ 
